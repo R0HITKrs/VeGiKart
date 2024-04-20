@@ -11,3 +11,7 @@
 - Vocal for Local
 
 ## VocalForLocal
+
+Our team
+{"![image](https://github.com/R0HITKrs/VeGiKart/assets/102956102/409b0aac-779a-420e-972d-d76859e86330)
+"}
